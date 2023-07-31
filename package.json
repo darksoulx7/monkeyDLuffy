@@ -1,0 +1,33 @@
+{
+  "dependencies": {
+    "@aws-sdk/client-dynamodb": "^3.370.0",
+    "@aws-sdk/lib-dynamodb": "^3.370.0",
+    "@elastic/elasticsearch": "^7.17.11-patch.1",
+    "@opensearch-project/opensearch": "^1.2.0",
+    "aws-opensearch-connection": "^3.0.0",
+    "aws-sdk": "^2.1414.0",
+    "aws4": "^1.12.0",
+    "commander": "^11.0.0",
+    "dotenv": "^16.3.1",
+    "https": "^1.0.0",
+    "joi": "^17.9.2",
+    "joi-objectid": "^3.0.1",
+    "lodash": "^4.17.21",
+    "rxjs": "^7.8.1",
+    "ulid": "^2.3.0",
+    "yargs": "^17.7.2"
+  },
+  "devDependencies": {
+    "@types/node": "^20.4.1"
+  },
+  "name": "elastic-search-elo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
